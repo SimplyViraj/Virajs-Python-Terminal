@@ -37,13 +37,12 @@ class Terminal(QPlainTextEdit):
     "show ip": "ip",
     "my ip": "ip",
     "which os": "os",
-    "os version": "osver",
+    " what is os version": "osver",
     "python version": "pyver",
     "list files": "ls",
     "clear screen": "clear",
     "help": "help",
-    
-    # File operations
+    "exit terminal": "exit",
     "create a file": "mkfil",
     "make a new file": "mkfil",
     "add file": "mkfil",
@@ -167,7 +166,7 @@ class Terminal(QPlainTextEdit):
         score = result["scores"][0]
         print("NLP DEBUG:", sentence, "=>", result)
 
-        if score > 0.3:  # threshold
+        if score > 0.2:  # threshold
             return self.supported_cmds[best_label]  # return actual command
         return None
 

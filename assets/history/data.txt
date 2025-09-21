@@ -195,3 +195,19 @@ show ip
 
 mode natural
 make a directory
+
+mode natural
+show ip
+create a directory
+make a directory
+
+help
+curDir
+mkdir File
+cd File
+I also integrated an nlp which takes natural language as input
+mode natural
+show ip
+get ip
+make a directory
+what is os version
