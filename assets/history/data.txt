@@ -1,0 +1,197 @@
+help
+CD
+help
+clear
+help
+clear
+cd
+history
+clear history
+clear
+help
+ip
+
+help
+curDir
+lp
+help
+lp
+help
+lp
+s
+lp
+lp
+lp\
+
+
+help
+help
+cls
+hel
+help
+close
+help
+help pa
+help -a
+exit
+exit
+lp
+help
+
+help
+cip
+ip
+
+help
+ip
+llpo
+help
+curDir
+mkdir
+md file.txt
+help -a
+curDir
+dir File
+cd File
+mkdir file.txt
+llp
+
+help
+mkdir File
+cd File
+l
+help
+curDir
+cd File
+l
+curDir
+cd ~
+
+curDir
+curDir
+
+curDir
+
+curDir
+cd File
+
+curDir
+cd File
+d
+curDir
+cd File
+curDir
+
+hell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'
+ror: name 'nlp_parse' is not defined
+h
+eate
+reate file
+eate file
+
+
+cur
+rDir
+CurDir
+curDir
+lp
+
+sp
+create a text file
+
+mode natural
+
+mode natural
+create text file
+
+
+
+get ip
+mode natural
+get ip
+
+
+
+ip
+
+mode natural
+my ip
+my ip
+which os
+
+mode natural
+show ip
+
+mode natural
+show ip
+
+mode natural
+show ip
+
+what time is it
+mode natural
+what time is it
+whats my ip
+whats my os version
+
+mode natural
+create directory File and add text file in it
+
+Create a directory called docs and make a file notes.txt inside it
+mode natural
+Create a directory called docs and make a file notes.txt inside it
+
+create a directory called docs and make file notes.txt in it
+mode natural
+mode natural
+Create a directory called docs and make a file notes.txt inside it
+
+mode natural
+
+Create a directory called docs and make a file notes.text
+
+mode natural
+Create a directory files
+
+mode natural
+create directory files
+create directory files
+
+create a directory files
+mode natural
+create a directory files
+
+mode natural
+create a directory called Folder
+atural → mkdir]
+atural → mkdir]
+atural → mkdir]
+atural → mkdir] Folder
+s[
+
+mode natural
+show ip
+atural → ip]
+
+show ip
+mode natural
+show ip
+
+mode natural
+make a directory
